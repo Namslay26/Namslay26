@@ -7,4 +7,4 @@
 * 🔭 I am currently working on Front-end Development and UI/UX design
 * 🌱 I am interested in Machine Learning, Cyber Security and IOT. 
 * 🤝 I would like to collaborate on Web Development, Artificial Intelligence, or any fun ideas! 
-* 🔗 Here's my LinkedIn: 
+* 🔗 Here's my LinkedIn: [LinkedIn](https://www.linkedin.com/in/sneha-michelle-vimal-1b73b0213/)
