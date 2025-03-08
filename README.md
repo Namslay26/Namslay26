@@ -3,16 +3,18 @@
 > Welcome to my GitHub Profile!
 
 ## About Me,
-* 👩🏼‍🎓I am a Final year Computer Science student, and I'm highly interested in Climate Technology. 
-* 🔭 I am currently working on Cyber Security Front-end Development, UI/UX, and Data Visualization.
-* 🌱 I am interested in Cyber Security, Machine Learning, and Generative AI. 
-* 🤝 I would like to collaborate on Climate Technology involving Web Development, Artificial Intelligence, or any fun ideas! 
+* 👩🏼‍💻 I am a Software Engineer.
+* 🔭 I am currently working on Java related applications and NLP. 
+* 🌱 I am interested in NLP, Generative AI, Machine Learning and Data Visualization.  
+* 🤝 I would love to collaborate on ideas! I'm interested in teaching Computer Science as well :) 
 
 ## Tech Stack I'm familiar with, 
 - ReactJS
 - NextJS
 - Tailwind CSS
 - Figma
+- SQL
+
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/> </a>
