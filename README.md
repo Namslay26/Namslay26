@@ -31,5 +31,4 @@
 </p>
 
 ## Contact me!
-* 🔗 Here's my LinkedIn: [LinkedIn](https://www.linkedin.com/in/sneha-michelle-vimal-1b73b0213/)
-* 🔗 Here's my website: [Sneha Michelle](snehamichellesite.vercel.app)
+* Here's my mail ID: [michpelled@gmail.com] 
