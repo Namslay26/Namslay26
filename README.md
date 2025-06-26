@@ -9,7 +9,8 @@
 * 🤝 I would love to collaborate on ideas! I'm interested in teaching Computer Science as well :) 
 
 ## Tech Stack I'm familiar with, 
-- ReactJS
+- Java 
+- Python 
 - NextJS
 - Tailwind CSS
 - Figma
